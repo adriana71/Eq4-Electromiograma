@@ -3,10 +3,11 @@ Docente(s) responsable(s):
 • Marcos Romo Avilés
 • Adriana Rojas Molina
 Integrantes del equipo:
-1. Ian Carlo Aguilar Vázquez
-2. Victor Ortigosa Coral
-3. Ezequiel Gil Guerrero Patiño
-4. Carlos Gabriel López Rangel
+1. Ian Carlo Aguilar Vázquez 343509
+2. Victor Ortigosa Coral 343540
+3. Ezequiel Gil Guerrero Patiño 343563
+4. Carlos Gabriel López Rangel 343532
+
 Carrera: Ingeniería en Automatización
 Campus: Centro Universitario
 
