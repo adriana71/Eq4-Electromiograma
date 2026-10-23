@@ -131,3 +131,14 @@ Con el fin de delimitar de forma realista el desarrollo dentro del periodo acad�
 * Apoyo a la prevención de lesiones deportivas mediante la detección temprana de fatiga muscular y desviaciones posturales.
 * Sentado de las bases técnicas para futuras versiones del sistema con mayor número de canales, algoritmos de IA más sofisticados y validación clínica formal.
 
+
+
+
+
+
+| Integrante | Rol | Participación / Tareas realizadas |
+| :--- | :--- | :--- |
+| **Nombre del integrante 1** |  |
+| **Nombre del integrante 2** |  |
+| **Nombre del integrante 3** |  |
+| **Nombre del integrante 4** |  |
