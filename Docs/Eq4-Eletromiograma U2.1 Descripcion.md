@@ -142,3 +142,19 @@ Con el fin de delimitar de forma realista el desarrollo dentro del periodo acad�
 | **Ian Carlo Aguilar Vazquez** | | | |
 | **Carlos Gabriel Lopez Rangel** | | | |
 | **Victor Ortigoza Coral** | | | |
+
+
+
+
+
+
+
+### Necesidades de aprendizaje y apoyo del equipo
+
+| Necesidad identificada | ¿Qué sabemos actualmente? | ¿Qué necesitamos hacer para atenderla? |
+| :--- | :--- | :--- |
+| **Adquisición y acondicionamiento de señales EMG de superficie** | Conocemos las bases de electrónica analógica y que se requieren etapas de amplificación y filtrado para limpiar la señal muscular antes de digitalizarla. | Investigar documentación técnica sobre sensores/electrodos EMG de superficie, diseñar el circuito de acondicionamiento y consultar a los docentes para validar la reducción de ruido. |
+| **Muestreo en tiempo real y comunicación inalámbrica (BLE / Wi-Fi)** | Tenemos nociones de programación básica de microcontroladores y lectura de entradas analógicas (ADC). | Aprender a configurar la frecuencia de muestreo adecuada en el ADC y el protocolo de transmisión inalámbrica (Bluetooth Low Energy o Wi-Fi) para enviar paquetes sin pérdida de datos. |
+| **Arquitectura de software y visualización en tiempo real** | Contamos con fundamentos de programación orientada a objetos (POO) y estructuras de datos básicas. | Aprender a utilizar un framework para el desarrollo de la interfaz (móvil o de escritorio), aplicar patrones de diseño para graficar señales en tiempo real y gestionar el almacenamiento local de sesiones. |
+| **Integración del agente de Inteligencia Artificial mediante API** | Sabemos qué tipo de retroalimentación buscamos generar (rehabilitación, fatiga en gimnasio y postura) a partir de las señales adquiridas. | Aprender a consumir una API de IA desde nuestra aplicación, estructurar los datos biomecánicos preprocesados (extracción de características) y definir los prompts o parámetros de evaluación. |
+| **Parámetros biomecánicos de fatiga y activación muscular** | Identificamos el problema de la falta de métricas cuantitativas al realizar ejercicios de rehabilitación o entrenamiento de fuerza. | Investigar referencias teóricas sobre electromiografía de superficie y consultar a especialistas o bibliografía en fisioterapia/deporte para calibrar los umbrales de activación y fatiga. |
