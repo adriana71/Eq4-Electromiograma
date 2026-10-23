@@ -138,7 +138,7 @@ Con el fin de delimitar de forma realista el desarrollo dentro del periodo acad√
 
 | Integrante | Rol | Participaci√≥n |
 | :--- | :--- | :--- |
-| **Gil Ezequiel Guerrerp Patino** |  | |  |
+| **Gil Ezequiel Guerrero Patino** |  | |  |
 | **Ian Carlo Aguilar Vazquez** |  | |  |
 | **Carlos Gabriel Lopez Rangel** |  | |  |
 | **Victor Ortigoza Coral** |  | |  |
