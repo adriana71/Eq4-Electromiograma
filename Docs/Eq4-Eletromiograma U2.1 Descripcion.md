@@ -136,9 +136,9 @@ Con el fin de delimitar de forma realista el desarrollo dentro del periodo acad�
 
 
 
-| Integrante | Rol | Participación |
-| :--- | :--- | :--- |
-| **Gil Ezequiel Guerrero Patino** |  | |  |
-| **Ian Carlo Aguilar Vazquez** |  | |  |
-| **Carlos Gabriel Lopez Rangel** |  | |  |
-| **Victor Ortigoza Coral** |  | |  |
+| Integrante | Me interesa participar en... | Inicialmente puedo colaborar en... | Me gustaría aprender o desarrollar... |
+| :--- | :--- | :--- | :--- |
+| **Gil Ezequiel Guerrero Patino** | | | |
+| **Ian Carlo Aguilar Vazquez** | | | |
+| **Carlos Gabriel Lopez Rangel** | | | |
+| **Victor Ortigoza Coral** | | | |
