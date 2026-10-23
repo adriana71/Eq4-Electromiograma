@@ -136,9 +136,9 @@ Con el fin de delimitar de forma realista el desarrollo dentro del periodo acad�
 
 
 
-| Integrante | Rol | Participación / Tareas realizadas |
+| Integrante | Rol | Participación |
 | :--- | :--- | :--- |
-| **Nombre del integrante 1** |  |
-| **Nombre del integrante 2** |  |
-| **Nombre del integrante 3** |  |
-| **Nombre del integrante 4** |  |
+| **Gil Ezequiel Guerrerp Patino** |  | |  |
+| **Ian Carlo Aguilar Vazquez** |  | |  |
+| **Carlos Gabriel Lopez Rangel** |  | |  |
+| **Victor Ortigoza Coral** |  | |  |
