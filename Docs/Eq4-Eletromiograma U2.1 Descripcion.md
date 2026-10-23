@@ -138,7 +138,7 @@ Con el fin de delimitar de forma realista el desarrollo dentro del periodo acad√
 
 | Integrante | Me interesa participar en... | Inicialmente puedo colaborar en... | Me gustar√≠a aprender o desarrollar... |
 | :--- | :--- | :--- | :--- |
-| **Gil Ezequiel Guerrero Patino** | **La creacion del prototipo y programar** | **El armado del prototipo inicial y que pueda +funconar de forma muy basoca** | **Programar, hacer modelos mas complejos con los PCB** |
+| **Gil Ezequiel Guerrero Patino** | **La creacion del prototipo y programar** | **El armado del prototipo inicial y que pueda funcionar de forma muy basica** | **Programar, hacer modelos mas complejos con los PCB** |
 | **Ian Carlo Aguilar Vazquez** | | | |
 | **Carlos Gabriel Lopez Rangel** | | | |
 | **Victor Ortigoza Coral** | | | |
