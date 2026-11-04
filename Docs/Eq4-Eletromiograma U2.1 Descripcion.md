@@ -165,7 +165,7 @@ Con el fin de delimitar de forma realista el desarrollo dentro del periodo acad�
 | **Gil Ezequiel Guerrero Patino** | **La creacion del prototipo y programar** | **El armado del prototipo inicial y que pueda funcionar de forma muy basica** | **Programar, hacer modelos mas complejos con los PCB** |
 | **Ian Carlo Aguilar Vazquez** | | | |
 | **Carlos Gabriel Lopez Rangel** | **El diseño de la arquitectura de la aplicación, el procesamiento de la señal EMG y, de ser necesario, la etapa de filtrado analógico.** | **La estructuración y redacción de la documentación técnica del proyecto.** | **La integración de la API de Inteligencia Artificial y la implementación de la comunicación inalámbrica.** |
-| **Victor Ortigoza Coral** | | | |
+| **Victor Ortigosa Coral** | **Me interesa participar en el desarrollo de la lógica de la aplicación para recibir el flujo de datos, el almacenamiento de sesiones y el diseño de la interfaz visual del usuario.** | **Diseñar diagramas de flujo de la aplicación, estructurar las clases base objetos y preparar el entorno de desarrollo.** | **Cómo hacer que la aplicación reciba y muestre las lecturas musculares al instante sin errores, y cómo enviar esa información a un asistente de IA para que dé respuestas automáticas** |
 
 ### 7.2 Necesidades de aprendizaje y apoyo del equipo
 
