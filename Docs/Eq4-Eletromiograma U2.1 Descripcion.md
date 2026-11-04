@@ -181,9 +181,9 @@ Con el fin de delimitar de forma realista el desarrollo dentro del periodo acad�
 
 | Responsabilidad | Integrante(s) | ¿Qué deberá cuidar o verificar? |
 | :--- | :--- | :--- |
-| **Coordinación** | *Por asignar entre integrantes* | Dar seguimiento a los acuerdos del equipo, ayudar a organizar las actividades semanales y cuidar que se cumplan los tiempos de entrega. |
-| **Documentación** | *Por asignar entre integrantes* | Verificar que la información técnica y los documentos generados en el repositorio se encuentren bien estructurados, organizados y actualizados conforme a los requisitos de cada unidad. |
-| **Seguimiento en GitHub** | *Por asignar entre integrantes* | Verificar que las tarjetas (Issues y Sub-issues), estados del tablero, enlaces, commits y evidencias de participación del proyecto se mantengan actualizados. |
+| **Coordinación** | *Victor Ortigosa* | Dar seguimiento a los acuerdos del equipo, ayudar a organizar las actividades semanales y cuidar que se cumplan los tiempos de entrega. |
+| **Documentación** | *Victor, Ian Carlo, Gil Ezequiel* | Verificar que la información técnica y los documentos generados en el repositorio se encuentren bien estructurados, organizados y actualizados conforme a los requisitos de cada unidad. |
+| **Seguimiento en GitHub** | *Carlos Gabriel* | Verificar que las tarjetas (Issues y Sub-issues), estados del tablero, enlaces, commits y evidencias de participación del proyecto se mantengan actualizados. |
 
 ### 7.4 Acuerdos de trabajo del equipo
 
